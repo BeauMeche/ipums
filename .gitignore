@@ -1,3 +1,8 @@
 .Rproj.user
 
 *.Rproj
+
+
+IPUMS/extracts/usa*
+
+ipums_appendix_cache*
